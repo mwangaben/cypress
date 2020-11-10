@@ -1,22 +1,22 @@
 {
-    "name": "laracasts/cypress",
+    "name": "mwangaben/cypress-cypress",
     "description": "Laravel Cypress Boilerplate",
     "keywords": [
         "laracasts",
         "cypress"
     ],
-    "homepage": "https://github.com/laracasts/cypress",
+    "homepage": "https://github.com/mwangaben/cypress-cypress",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Jeffrey Way",
-            "email": "jeffrey@laracasts.com",
+            "name": "Benedict Mwanga",
+            "email": "umbijaniservices@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.3",
+        "php": "^7.4",
         "illuminate/support": "^6.0|^7.0|^8.0"
     },
     "require-dev": {
